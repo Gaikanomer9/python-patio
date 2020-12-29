@@ -1,0 +1,11 @@
+altgraph==0.17
+click==7.1.2
+macholib==1.14
+prompt-toolkit==1.0.14
+Pygments==2.7.3
+PyInquirer==1.0.3
+pyinstaller==4.1
+pyinstaller-hooks-contrib==2020.11
+regex==2020.11.13
+six==1.15.0
+wcwidth==0.2.5
